@@ -1,6 +1,7 @@
 ## Robo advisors
-1. [Wealthfront](https://www.wealthfront.com)
-2. [Betterment](https://www.betterment.com)
+1. [Wealthfront](https://www.wealthfront.com) - 0.25% + ~0.12% annual fee of asset under management (AUM)
+2. [Betterment](https://www.betterment.com) - 0.35% (below $10K) to 0.15% (above $100K)
+3. [Wise Banyan](https://wisebanyan.com/) - no fee
 
 ## Non-robo advisors
 1. [Hedgeable](https://www.hedgeable.com)
