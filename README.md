@@ -5,7 +5,8 @@
 
 ## Non-robo advisors
 1. [Hedgeable](https://www.hedgeable.com)
-2. [Aspiration](https://www.aspiration.com/) - not launched yet
+2. [Aspiration](https://www.aspiration.com/)
+3. [Instavest](https://instavest.com/) - for speculative short term trading
 3. [Personal Capital](https://www.personalcapital.com) - it also has portfolio tracker
 4. [Future Advisor](https://www.futureadvisor.com) - it also has portfolio tracker
 
