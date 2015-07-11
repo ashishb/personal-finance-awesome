@@ -29,3 +29,13 @@
 ## Learning
 1. [Bogleheads](http://www.bogleheads.org/) 
 2. [Tax guide](http://fairmark.com/)
+
+## Private market investing (only for accreditated investors)
+1. [AngelList](https://angel.co/)
+2. [SeedInvest](https://www.seedinvest.com/)
+3. [OneVest](https://onevest.com/)
+4. [WeFunder](https://wefunder.com/)
+
+## Private market secondary transactions (only for accreditated investors)
+2. [SharesPost](http://sharespost.com/)
+3. [Equity Zen](https://equityzen.com)
