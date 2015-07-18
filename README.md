@@ -35,6 +35,7 @@
 2. [SeedInvest](https://www.seedinvest.com/)
 3. [OneVest](https://onevest.com/)
 4. [WeFunder](https://wefunder.com/)
+5. [AngelsDen](https://www.angelsden.com/)
 
 ## Private market secondary transactions (only for accreditated investors)
 2. [SharesPost](http://sharespost.com/)
