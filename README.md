@@ -1,4 +1,4 @@
-# List of Personal Finance and investing websites ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://travis-ci.org/ashishb/personal-finance-awesome"><img src="https://img.shields.io/travis/Originate/tertestrial-server/master.svg?label=URL%20Check" alt="URL Check"></a>
+# Personal Finance and investing websites ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://travis-ci.org/ashishb/personal-finance-awesome"><img src="https://img.shields.io/travis/Originate/tertestrial-server/master.svg?label=URL%20Check" alt="URL Check"></a>
 
 ### Robo advisors
 
