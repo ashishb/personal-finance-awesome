@@ -51,3 +51,9 @@
 
 2. [SharesPost](http://sharespost.com/)
 3. [Equity Zen](https://equityzen.com)
+
+### Real Estate
+
+1. [RealtyShares](https://www.realtyshares.com)
+2. [AlphaFlow](https://www.alphaflow.com)
+3. [Fund Rise](https://fundrise.com/)
