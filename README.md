@@ -21,6 +21,7 @@
 ## Money management
 1. [Mint](https://www.mint.com)
 2. [Everwealth](https://www.everwealth.io) - not launched yet
+3. [You Need a Budget YNAB](https://www.youneedabudget.com/)
 
 ## Portfolio tracking
 1. [SigFig](https://www.sigfig.com)
@@ -29,6 +30,7 @@
 ## Learning
 1. [Bogleheads](http://www.bogleheads.org/) 
 2. [Tax guide](http://fairmark.com/)
+3. [Khan Academy Personal Finance Course](https://www.khanacademy.org/college-careers-more/personal-finance)
 
 ## Private market investing (only for accreditated investors)
 1. [AngelList](https://angel.co/)
