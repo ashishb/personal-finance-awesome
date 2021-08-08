@@ -34,6 +34,7 @@
 
 1. [SigFig](https://www.sigfig.com)
 2. [Wikinvest](https://www.wikinvest.com)
+3. [Ghostfolio](https://ghostfol.io) - open source portfolio tracking software
 
 ### Learning
 
