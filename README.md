@@ -29,6 +29,7 @@
 1. [Mint](https://www.mint.com)
 2. [Everwealth](https://www.everwealth.io) - not launched yet
 3. [You Need a Budget YNAB](https://www.youneedabudget.com/)
+4. [JustCancel](https://www.justcancel.io) - find and cancel forgotten subscriptions from bank statements, $5 one-time
 
 ### Subscription management
 
