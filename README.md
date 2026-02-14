@@ -30,6 +30,10 @@
 2. [Everwealth](https://www.everwealth.io) - not launched yet
 3. [You Need a Budget YNAB](https://www.youneedabudget.com/)
 
+### Subscription management
+
+1. [Just Cancel](https://www.justcancel.io) - Upload bank statement, AI finds all subscriptions, get cancel links for 450+ services ($5 one-time)
+
 ### Portfolio tracking
 
 1. [SigFig](https://www.sigfig.com)
