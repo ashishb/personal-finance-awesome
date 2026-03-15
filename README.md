@@ -38,9 +38,10 @@
 
 ### Learning
 
-1. [Bogleheads](http://www.bogleheads.org/) 
+1. [Bogleheads](http://www.bogleheads.org/)
 2. [Tax guide](http://fairmark.com/)
 3. [Khan Academy Personal Finance Course](https://www.khanacademy.org/college-careers-more/personal-finance)
+4. [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors including Buffett, Munger, and Dalio
 
 ### Private market investing (only for accreditated investors)
 
