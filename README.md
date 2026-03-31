@@ -40,7 +40,8 @@
 
 1. [Bogleheads](http://www.bogleheads.org/) 
 2. [Tax guide](http://fairmark.com/)
-3. [Khan Academy Personal Finance Course](https://www.khanacademy.org/college-careers-more/personal-finance)
+3. (https://nationaltaxtools.com) - Free, no-login tax calculators for understanding how federal tax policies like No Tax on Tips, No Tax on Overtime, and the SALT Cap affect personal income. Built by an IRS Authorized e-File Provider.
+4. [Khan Academy Personal Finance Course](https://www.khanacademy.org/college-careers-more/personal-finance)
 
 ### Private market investing (only for accreditated investors)
 
