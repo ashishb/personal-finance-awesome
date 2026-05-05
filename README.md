@@ -29,6 +29,7 @@
 1. [Mint](https://www.mint.com)
 2. [Everwealth](https://www.everwealth.io) - not launched yet
 3. [You Need a Budget YNAB](https://www.youneedabudget.com/)
+4. [CalcFi](https://calcfi.app) - Free hub of financial calculators (mortgage, tax, retirement, salary, debt, investing) sourced to public US federal data (FRED, BLS, IRS, HUD)
 
 ### Portfolio tracking
 
