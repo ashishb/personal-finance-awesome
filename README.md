@@ -29,6 +29,7 @@
 1. [Mint](https://www.mint.com)
 2. [Everwealth](https://www.everwealth.io) - not launched yet
 3. [You Need a Budget YNAB](https://www.youneedabudget.com/)
+4. [SubTrack](https://subtrack.makbar.dev) - Local-first browser extension to track subscriptions and get renewal reminders, no bank linking required.
 
 ### Portfolio tracking
 
