@@ -35,6 +35,7 @@
 1. [SigFig](https://www.sigfig.com)
 2. [Wikinvest](https://www.wikinvest.com)
 3. [Ghostfolio](https://ghostfol.io) - open source portfolio tracking software
+4. [Foliofox](https://www.foliofox.com) - open source net worth and portfolio tracker with AI-powered financial advisor, scenario planning, and multi-currency support
 
 ### Learning
 
