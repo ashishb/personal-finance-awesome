@@ -29,6 +29,7 @@
 1. [Mint](https://www.mint.com)
 2. [Everwealth](https://www.everwealth.io) - not launched yet
 3. [You Need a Budget YNAB](https://www.youneedabudget.com/)
+4. [Kivana](https://kivana.eu) - offline-first, open-source personal finance app
 
 ### Portfolio tracking
 
