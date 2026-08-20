@@ -46,7 +46,7 @@
 1. [Bogleheads](http://www.bogleheads.org/)
 1. [Tax guide](http://fairmark.com/)
 1. [Khan Academy Personal Finance Course](https://www.khanacademy.org/college-careers-more/personal-finance)
-1. [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors including Buffett, Munger, and Dalio
+1. [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors, including Buffett, Munger, and Dalio
 
 ### Private market investing (only for accredited investors)
 
@@ -65,5 +65,10 @@
 
 1. [AlphaFlow](https://www.alphaflow.com)
 1. [Fund Rise](https://fundrise.com/)
-1. [Threshold - rent vs. buy calculator](https://threshold-calculator.com/)
 1. ~~[RealtyShares](https://www.realtyshares.com)~~
+
+### Cost of Living
+
+1. [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
+1. [Calcoras](https://www.calcoras.com) - free calculators for loans, mortgages, savings, and affordability, plus everyday budgeting tools; no sign-up required
+1. [Threshold - rent vs. buy calculator](https://threshold-calculator.com/)
