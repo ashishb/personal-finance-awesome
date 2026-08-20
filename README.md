@@ -65,3 +65,7 @@
 1. [RealtyShares](https://www.realtyshares.com)
 2. [AlphaFlow](https://www.alphaflow.com)
 3. [Fund Rise](https://fundrise.com/)
+
+### Cost of Living
+
+1. [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
