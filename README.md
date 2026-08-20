@@ -2,7 +2,7 @@
 
 ### Robo advisors
 
-1. [Wealthfront](https://www.wealthfront.com) - 0.25% + ~0.12% annual fee of asset under management (AUM)
+1. [Wealthfront](https://www.wealthfront.com) - 0.25% + ~0.12% annual fee of assets under management (AUM)
 2. [Betterment](https://www.betterment.com) - 0.35% (below $10K) to 0.15% (above $100K)
 3. [Wise Banyan](https://wisebanyan.com/) - no fee
 4. [Hedgeable](https://www.hedgeable.com) - claims its [CPPI](http://www.investopedia.com/terms/c/cppi.asp) approach is better than [MPT](http://www.investopedia.com/terms/m/modernportfoliotheory.asp) approach used by other robo-advisors
@@ -31,6 +31,10 @@
 3. [You Need a Budget YNAB](https://www.youneedabudget.com/)
 4. [SubTrack](https://subtrack.makbar.dev) - Local-first browser extension to track subscriptions and get renewal reminders, no bank linking required.
 
+### Subscription management
+
+1. [Just Cancel](https://www.justcancel.io) - Upload bank statement, AI finds all subscriptions, get cancel links for 450+ services ($5 one-time)
+
 ### Portfolio tracking
 
 1. [SigFig](https://www.sigfig.com)
@@ -39,9 +43,10 @@
 
 ### Learning
 
-1. [Bogleheads](http://www.bogleheads.org/) 
+1. [Bogleheads](http://www.bogleheads.org/)
 2. [Tax guide](http://fairmark.com/)
 3. [Khan Academy Personal Finance Course](https://www.khanacademy.org/college-careers-more/personal-finance)
+4. [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors including Buffett, Munger, and Dalio
 
 ### Private market investing (only for accreditated investors)
 
@@ -61,3 +66,7 @@
 1. [RealtyShares](https://www.realtyshares.com)
 2. [AlphaFlow](https://www.alphaflow.com)
 3. [Fund Rise](https://fundrise.com/)
+
+### Cost of Living
+
+1. [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
