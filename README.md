@@ -2,7 +2,7 @@
 
 ### Robo advisors
 
-1. [Wealthfront](https://www.wealthfront.com) - 0.25% + ~0.12% annual fee of asset under management (AUM)
+1. [Wealthfront](https://www.wealthfront.com) - 0.25% + ~0.12% annual fee of assets under management (AUM)
 2. [Betterment](https://www.betterment.com) - 0.35% (below $10K) to 0.15% (above $100K)
 3. [Wise Banyan](https://wisebanyan.com/) - no fee
 4. [Hedgeable](https://www.hedgeable.com) - claims its [CPPI](http://www.investopedia.com/terms/c/cppi.asp) approach is better than [MPT](http://www.investopedia.com/terms/m/modernportfoliotheory.asp) approach used by other robo-advisors
@@ -29,7 +29,6 @@
 1. [Mint](https://www.mint.com)
 2. [Everwealth](https://www.everwealth.io) - not launched yet
 3. [You Need a Budget YNAB](https://www.youneedabudget.com/)
-4. [JustCancel](https://www.justcancel.io) - find and cancel forgotten subscriptions from bank statements, $5 one-time
 
 ### Subscription management
 
