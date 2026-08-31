@@ -73,3 +73,10 @@
 1. [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
 1. [Calcoras](https://www.calcoras.com) - free calculators for loans, mortgages, savings, and affordability, plus everyday budgeting tools; no sign-up required
 1. [Threshold - rent vs. buy calculator](https://threshold-calculator.com/)
+
+### Taxes and retirement withdrawals
+
+1. [Roth Conversion Calculator](https://stepuplaw.com/roth-conversion-calculator) - free calculator for how much of a Roth conversion fits in your current bracket, including the Social Security and IRMAA side effects; shows every line of the math with the statute it comes from, no sign-up
+1. [Inherited IRA RMD Calculator](https://stepuplaw.com/inherited-ira-rmd-calculator) - free calculator for required distributions on an inherited IRA under the 10-year rule, no sign-up
+1. [State Estate Tax Calculator](https://stepuplaw.com/state-estate-tax-calculator) - free state-by-state estate and inheritance tax estimator covering every state that still levies one, no sign-up
+1. [IRS Offer in Compromise Pre-Qualifier](https://stepuplaw.com/offer-in-compromise-calculator) - free reasonable collection potential estimate, to see whether an offer in compromise is realistic before paying to file one, no sign-up
