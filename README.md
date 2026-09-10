@@ -73,3 +73,4 @@
 1. [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
 1. [Calcoras](https://www.calcoras.com) - free calculators for loans, mortgages, savings, and affordability, plus everyday budgeting tools; no sign-up required
 1. [Threshold - rent vs. buy calculator](https://threshold-calculator.com/)
+1. [Wheelwise](https://cars.limoja.ai) - free UK used-car price checker: grades every advert A–E against a model trained on 137,552 live listings (published error: RMSLE 0.161), forecasts resale at 24/36/48 months, and compares cash, loan, HP, PCP and lease as one monthly cost; no account required (UK-only)
