@@ -50,6 +50,7 @@
 1. [Tax guide](http://fairmark.com/)
 1. [Khan Academy Personal Finance Course](https://www.khanacademy.org/college-careers-more/personal-finance)
 1. [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors, including Buffett, Munger, and Dalio
+1. [ZeroToInvest](https://zerotoinvest.com/de/) - Free, ad-free German-language course on investing and stock markets, covering more than 100 lessons plus interactive calculators.
 
 ### Private market investing (only for accredited investors)
 
