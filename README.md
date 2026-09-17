@@ -76,3 +76,4 @@
 1. [Calcoras](https://www.calcoras.com) - free calculators for loans, mortgages, savings, and affordability, plus everyday budgeting tools; no sign-up required
 1. [BoringToolsKit marketplace fee calculators](https://boringtoolskit.com/ebay-fee-profit-calculator/) - free calculators showing what eBay, Etsy, Amazon, and Shopify actually take from a sale, plus break-even pricing for sellers; runs entirely in the browser, no sign-up
 1. [Threshold - rent vs. buy calculator](https://threshold-calculator.com/)
+1. [The Brink Labs Tools](https://thebrinklabs.com/tools/) - 6 free, client-side personal finance calculators for zero-based budgeting, subscription bleed audit, and debt payoff; runs entirely in the browser, no sign-up or telemetry
