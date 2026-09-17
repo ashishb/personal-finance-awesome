@@ -29,6 +29,7 @@
 1. [Mint](https://www.mint.com)
 1. [Everwealth](https://www.everwealth.io) - not launched yet
 1. [You Need a Budget YNAB](https://www.youneedabudget.com/)
+1. [StockAvg](https://stockavg.com/) - free stock average cost and cost basis calculators (average down, DCA, DRIP, splits, position size, market cap, options at expiration); no sign-up, and the rounding rule is published
 
 ### Subscription management
 
