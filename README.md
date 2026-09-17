@@ -30,6 +30,7 @@
 1. [Everwealth](https://www.everwealth.io) - not launched yet
 1. [You Need a Budget YNAB](https://www.youneedabudget.com/)
 1. [TidyCalcs](https://www.tidycalcs.com) - free calculators for mortgages, loans, debt payoff, and retirement planning
+1. [Counts](https://getcounts.app) - shared envelope budgeting with a free plan, CSV imports, reconciliation, and no bank password required
 
 ### Subscription management
 
@@ -42,7 +43,7 @@
 1. [Wikinvest](https://www.wikinvest.com)
 1. [Ghostfolio](https://ghostfol.io) - open source portfolio tracking software
 1. [Foliofox](https://www.foliofox.com) - open source net worth and portfolio tracker with AI-powered financial advisor, scenario planning, and multi-currency support
-
+1. [VestingGap](https://vestinggap.com) - Zero-login RSU tax shortfall simulator for US tech employees
 ### Learning
 
 1. [Bogleheads](http://www.bogleheads.org/)
