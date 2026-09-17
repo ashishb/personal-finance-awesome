@@ -73,3 +73,4 @@
 1. [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
 1. [Calcoras](https://www.calcoras.com) - free calculators for loans, mortgages, savings, and affordability, plus everyday budgeting tools; no sign-up required
 1. [Threshold - rent vs. buy calculator](https://threshold-calculator.com/)
+1. [RentVsBuyMath](https://rentvsbuymath.com) - free, open-source rent vs. buy calculator with 2026 US tax rules and opportunity cost counted on both sides; no sign-up, no ads
