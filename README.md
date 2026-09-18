@@ -76,3 +76,4 @@
 1. [Calcoras](https://www.calcoras.com) - free calculators for loans, mortgages, savings, and affordability, plus everyday budgeting tools; no sign-up required
 1. [BoringToolsKit marketplace fee calculators](https://boringtoolskit.com/ebay-fee-profit-calculator/) - free calculators showing what eBay, Etsy, Amazon, and Shopify actually take from a sale, plus break-even pricing for sellers; runs entirely in the browser, no sign-up
 1. [Threshold - rent vs. buy calculator](https://threshold-calculator.com/)
+1. [RentVsBuyMath](https://rentvsbuymath.com) - free, open-source rent vs. buy calculator with 2026 US tax rules and opportunity cost counted on both sides; no sign-up, no ads
