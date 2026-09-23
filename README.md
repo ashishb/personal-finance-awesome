@@ -29,6 +29,8 @@
 1. [Mint](https://www.mint.com)
 1. [Everwealth](https://www.everwealth.io) - not launched yet
 1. [You Need a Budget YNAB](https://www.youneedabudget.com/)
+1. [TidyCalcs](https://www.tidycalcs.com) - free calculators for mortgages, loans, debt payoff, and retirement planning
+1. [Counts](https://getcounts.app) - shared envelope budgeting with a free plan, CSV imports, reconciliation, and no bank password required
 
 ### Subscription management
 
@@ -41,6 +43,7 @@
 1. [Wikinvest](https://www.wikinvest.com)
 1. [Ghostfolio](https://ghostfol.io) - open source portfolio tracking software
 1. [Foliofox](https://www.foliofox.com) - open source net worth and portfolio tracker with AI-powered financial advisor, scenario planning, and multi-currency support
+1. [VestingGap](https://vestinggap.com) - Zero-login RSU tax shortfall simulator for US tech employees
 
 ### Learning
 
@@ -48,6 +51,8 @@
 1. [Tax guide](http://fairmark.com/)
 1. [Khan Academy Personal Finance Course](https://www.khanacademy.org/college-careers-more/personal-finance)
 1. [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors, including Buffett, Munger, and Dalio
+1. [FIREnomics](https://www.firenomics.com) - practical FIRE guides grounded in math: savings rate, index funds, the 4% rule and its failure points, withdrawal strategy
+1. [ZeroToInvest](https://zerotoinvest.com/de/) - Free, ad-free German-language course on investing and stock markets, covering more than 100 lessons plus interactive calculators.
 
 ### Private market investing (only for accredited investors)
 
@@ -72,5 +77,9 @@
 
 1. [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
 1. [Calcoras](https://www.calcoras.com) - free calculators for loans, mortgages, savings, and affordability, plus everyday budgeting tools; no sign-up required
+1. [PlainSums](https://plainsums.com/) - Free mortgage, paycheck, loan, savings, and retirement calculators with itemized estimates and visible assumptions; no sign-up.
+1. [BoringToolsKit marketplace fee calculators](https://boringtoolskit.com/ebay-fee-profit-calculator/) - free calculators showing what eBay, Etsy, Amazon, and Shopify actually take from a sale, plus break-even pricing for sellers; runs entirely in the browser, no sign-up
 1. [Threshold - rent vs. buy calculator](https://threshold-calculator.com/)
 1. [Wheelwise](https://cars.limoja.ai) - free UK used-car price checker: grades every advert A–E against a model trained on 137,552 live listings (published error: RMSLE 0.161), forecasts resale at 24/36/48 months, and compares cash, loan, HP, PCP and lease as one monthly cost; no account required (UK-only)
+1. [The Brink Labs Tools](https://thebrinklabs.com/tools/) - 6 free, client-side personal finance calculators for zero-based budgeting, subscription bleed audit, and debt payoff; runs entirely in the browser, no sign-up or telemetry
+1. [RentVsBuyMath](https://rentvsbuymath.com) - free, open-source rent vs. buy calculator with 2026 US tax rules and opportunity cost counted on both sides; no sign-up, no ads
