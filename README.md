@@ -44,6 +44,7 @@
 1. [Ghostfolio](https://ghostfol.io) - open source portfolio tracking software
 1. [Foliofox](https://www.foliofox.com) - open source net worth and portfolio tracker with AI-powered financial advisor, scenario planning, and multi-currency support
 1. [VestingGap](https://vestinggap.com) - Zero-login RSU tax shortfall simulator for US tech employees
+
 ### Learning
 
 1. [Bogleheads](http://www.bogleheads.org/)
@@ -76,6 +77,7 @@
 
 1. [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
 1. [Calcoras](https://www.calcoras.com) - free calculators for loans, mortgages, savings, and affordability, plus everyday budgeting tools; no sign-up required
+1. [PlainSums](https://plainsums.com/) - Free mortgage, paycheck, loan, savings, and retirement calculators with itemized estimates and visible assumptions; no sign-up.
 1. [BoringToolsKit marketplace fee calculators](https://boringtoolskit.com/ebay-fee-profit-calculator/) - free calculators showing what eBay, Etsy, Amazon, and Shopify actually take from a sale, plus break-even pricing for sellers; runs entirely in the browser, no sign-up
 1. [Threshold - rent vs. buy calculator](https://threshold-calculator.com/)
 1. [The Brink Labs Tools](https://thebrinklabs.com/tools/) - 6 free, client-side personal finance calculators for zero-based budgeting, subscription bleed audit, and debt payoff; runs entirely in the browser, no sign-up or telemetry
