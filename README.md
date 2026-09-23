@@ -18,6 +18,7 @@
 
 1. [Fee X](https://www.feex.com)
 1. [Blooom](http://www.blooom.com/)
+1. [Utilnivo 401(k) Calculator](https://utilnivo.com/tools/finance/401k-calculator/) - free browser 401(k) projection with employer match, fees, catch-up, and 2026 IRS limits; no signup
 
 ### Notable online brokers
 
