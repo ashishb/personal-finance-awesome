@@ -80,6 +80,7 @@
 1. [PlainSums](https://plainsums.com/) - Free mortgage, paycheck, loan, savings, and retirement calculators with itemized estimates and visible assumptions; no sign-up.
 1. [BoringToolsKit marketplace fee calculators](https://boringtoolskit.com/ebay-fee-profit-calculator/) - free calculators showing what eBay, Etsy, Amazon, and Shopify actually take from a sale, plus break-even pricing for sellers; runs entirely in the browser, no sign-up
 1. [Threshold - rent vs. buy calculator](https://threshold-calculator.com/)
+1. [Wheelwise](https://cars.limoja.ai) - free UK used-car price checker: grades every advert A–E against a model trained on 137,552 live listings (published error: RMSLE 0.161), forecasts resale at 24/36/48 months, and compares cash, loan, HP, PCP and lease as one monthly cost; no account required (UK-only)
 
 ## Taxes and retirement withdrawals
 
