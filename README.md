@@ -14,11 +14,6 @@
 1. [Personal Capital](https://www.personalcapital.com) - it also has portfolio tracker
 1. [Future Advisor](https://www.futureadvisor.com) - it also has portfolio tracker
 
-### 401K analyzers
-
-1. [Fee X](https://www.feex.com)
-1. [Blooom](http://www.blooom.com/)
-
 ### Notable online brokers
 
 1. [Vanguard](https://www.vanguard.com) - amazing low-cost ETF and mutual funds
@@ -80,5 +75,18 @@
 1. [PlainSums](https://plainsums.com/) - Free mortgage, paycheck, loan, savings, and retirement calculators with itemized estimates and visible assumptions; no sign-up.
 1. [BoringToolsKit marketplace fee calculators](https://boringtoolskit.com/ebay-fee-profit-calculator/) - free calculators showing what eBay, Etsy, Amazon, and Shopify actually take from a sale, plus break-even pricing for sellers; runs entirely in the browser, no sign-up
 1. [Threshold - rent vs. buy calculator](https://threshold-calculator.com/)
+
+### Taxes and retirement withdrawals
+
+1. [Roth Conversion Calculator](https://stepuplaw.com/roth-conversion-calculator) - free calculator for how much of a Roth conversion fits in your current bracket, including the Social Security and IRMAA side effects; shows every line of the math with the statute it comes from, no sign-up
+1. [Inherited IRA RMD Calculator](https://stepuplaw.com/inherited-ira-rmd-calculator) - free calculator for required distributions on an inherited IRA under the 10-year rule, no sign-up
+1. [State Estate Tax Calculator](https://stepuplaw.com/state-estate-tax-calculator) - free state-by-state estate and inheritance tax estimator covering every state that still levies one, no sign-up
+1. [IRS Offer in Compromise Pre-Qualifier](https://stepuplaw.com/offer-in-compromise-calculator) - free reasonable collection potential estimate, to see whether an offer in compromise is realistic before paying to file one, no sign-up
 1. [The Brink Labs Tools](https://thebrinklabs.com/tools/) - 6 free, client-side personal finance calculators for zero-based budgeting, subscription bleed audit, and debt payoff; runs entirely in the browser, no sign-up or telemetry
 1. [RentVsBuyMath](https://rentvsbuymath.com) - free, open-source rent vs. buy calculator with 2026 US tax rules and opportunity cost counted on both sides; no sign-up, no ads
+
+#### 401K analyzers
+
+1. [Fee X](https://www.feex.com)
+1. [Blooom](http://www.blooom.com/)
+
