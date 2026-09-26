@@ -32,8 +32,8 @@
 1. [TidyCalcs](https://www.tidycalcs.com) - free calculators for mortgages, loans, debt payoff, and retirement planning
 1. [Counts](https://getcounts.app) - shared envelope budgeting with a free plan, CSV imports, reconciliation, and no bank password required
 1. [FinCalc](https://fincalc.cc) - free client-side calculators for loans, compound interest, NPV/IRR, and bonds; no ads, no sign-up, works offline
-
 1. [SeeFund](https://seefund.app/?ref=awesome-personal-finance) - free fund and ETF backtest and drawdown analysis: total and annualised return, Sharpe, the deepest drawdown with its dates, and every calendar year, net of fees; no sign-up
+
 ### Subscription management
 
 1. [Just Cancel](https://www.justcancel.io) - Upload a bank statement, AI finds all subscriptions, get cancel links for 450+ services ($5 one-time)
@@ -44,7 +44,7 @@
 1. [SigFig](https://www.sigfig.com)
 1. [Wikinvest](https://www.wikinvest.com)
 1. [Ghostfolio](https://ghostfol.io) - open source portfolio tracking software
-1. [Foliofox](https://www.foliofox.com) - open source net worth and portfolio tracker with AI-powered financial advisor, scenario planning, and multi-currency support
+1. [Foliofox](https://www.foliofox.com) - open-source net worth and portfolio tracker with AI-powered financial advisor, scenario planning, and multi-currency support
 1. [VestingGap](https://vestinggap.com) - Zero-login RSU tax shortfall simulator for US tech employees
 
 ## Learning
