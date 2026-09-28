@@ -92,7 +92,7 @@
 1. [The Brink Labs Tools](https://thebrinklabs.com/tools/) - 6 free, client-side personal finance calculators for zero-based budgeting, subscription bleed audit, and debt payoff; runs entirely in the browser, no sign-up or telemetry
 1. [RentVsBuyMath](https://rentvsbuymath.com) - free, open-source rent vs. buy calculator with 2026 US tax rules and opportunity cost counted on both sides; no sign-up, no ads
 1. [Ghost Money](https://ghost-money.surge.sh/) - free board marking 2026 rebate, tax-credit, and debt-forgiveness ads as alive or dead (expired or scam), each with its IRS/agency source, plus a paste-an-ad checker; no sign-up
-1. [Finance Simulator](https://finance.chriscoffin.design/) - free planner for Canada (not the US): take-home pay computed bracket by bracket for all 13 provinces and territories (Quebec's QPP, QPIP and federal abatement included), TFSA/RRSP/FHSA, and a retirement projection that taxes CPP and OAS income, including the OAS clawback; every tax constant is published with its source; no sign-up, financial inputs never leave the browser
+1. [Finance Simulator](https://finance.chriscoffin.design/) - free tax and retirement planner for Canada (not the US): take-home pay with real federal and provincial brackets for all 13 provinces and territories, TFSA/RRSP/FHSA, and retirement planning with CPP and OAS; every tax constant sourced on a public methodology page; no sign-up, financial inputs stay in the browser
 
 ### 401K analyzers
 
