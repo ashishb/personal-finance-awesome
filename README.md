@@ -33,6 +33,7 @@
 1. [Counts](https://getcounts.app) - shared envelope budgeting with a free plan, CSV imports, reconciliation, and no bank password required
 1. [FinCalc](https://fincalc.cc) - free client-side calculators for loans, compound interest, NPV/IRR, and bonds; no ads, no sign-up, works offline
 1. [SeeFund](https://seefund.app/?ref=awesome-personal-finance) - free fund and ETF backtest and drawdown analysis: total and annualised return, Sharpe, the deepest drawdown with its dates, and every calendar year, net of fees; no sign-up
+1. [The Calculator World](https://thecalculatorworld.com) - free calculators for EMI, SIP, compound interest, mortgage, GST and unit conversions; no sign-up
 
 ### Subscription management
 
