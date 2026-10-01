@@ -32,6 +32,7 @@
 1. [TidyCalcs](https://www.tidycalcs.com) - free calculators for mortgages, loans, debt payoff, and retirement planning
 1. [Counts](https://getcounts.app) - shared envelope budgeting with a free plan, CSV imports, reconciliation, and no bank password required
 1. [FinCalc](https://fincalc.cc) - free client-side calculators for loans, compound interest, NPV/IRR, and bonds; no ads, no sign-up, works offline
+1. [Calc & Charts](https://calcandcharts.com) - free calculators for everyday math, loans, and investing (mortgage, compound interest, retirement, dividends, capital gains, and more), plus stock-indicator lessons; every result shows its formula and a worked example, no sign-up
 1. [SeeFund](https://seefund.app/?ref=awesome-personal-finance) - free fund and ETF backtest and drawdown analysis: total and annualised return, Sharpe, the deepest drawdown with its dates, and every calendar year, net of fees; no sign-up
 1. [The Calculator World](https://thecalculatorworld.com) - free calculators for EMI, SIP, compound interest, mortgage, GST and unit conversions; no sign-up
 
@@ -94,7 +95,13 @@
 1. [RentVsBuyMath](https://rentvsbuymath.com) - free, open-source rent vs. buy calculator with 2026 US tax rules and opportunity cost counted on both sides; no sign-up, no ads
 1. [Ghost Money](https://ghost-money.surge.sh/) - free board marking 2026 rebate, tax-credit, and debt-forgiveness ads as alive or dead (expired or scam), each with its IRS/agency source, plus a paste-an-ad checker; no sign-up
 
+1. [Roth Conversion Calculator](https://runwayretirement.com/tools/roth-conversion-calculator.html) - free, no-signup Roth conversion decision tool: current vs. expected future tax rate, conversion amount, years of tax-free growth, estimated dollar savings (shows when converting loses money too)
+
 ### 401K analyzers
 
 1. [Fee X](https://www.feex.com)
 1. [Blooom](http://www.blooom.com/)
+
+### International - non-US
+
+1. [Finance Simulator](https://finance.chriscoffin.design/) - free tax and retirement planner for Canada (not the US): take-home pay with real federal and provincial brackets for all 13 provinces and territories, TFSA/RRSP/FHSA, and retirement planning with CPP and OAS; every tax constant sourced from a public methodology page; no sign-up; financial inputs stay in the browser
