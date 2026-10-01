@@ -9,15 +9,15 @@
 
 1. [Wealthfront](https://www.wealthfront.com) - 0.25% + ~0.12% annual fee of assets under management (AUM)
 1. [Betterment](https://www.betterment.com) - 0.35% (below $10K) to 0.15% (above $100K)
-1. [Wise Banyan](https://wisebanyan.com/) - no fee
-1. [Hedgeable](https://www.hedgeable.com) - claims its [CPPI](http://www.investopedia.com/terms/c/cppi.asp) approach is better than [MPT](http://www.investopedia.com/terms/m/modernportfoliotheory.asp) approach used by other robo-advisors
+1. ~~[Wise Banyan](https://wisebanyan.com/) - no fee~~
+1. ~~[Hedgeable](https://www.hedgeable.com) - claims its [CPPI](http://www.investopedia.com/terms/c/cppi.asp) approach is better than [MPT](http://www.investopedia.com/terms/m/modernportfoliotheory.asp) approach used by other robo-advisors~~
 
 ## Non-robo advisors
 
 1. [Aspiration](https://www.aspiration.com/)
-1. [Instavest](https://instavest.com/) - for speculative short-term trading
 1. [Personal Capital](https://www.personalcapital.com) - it also has portfolio tracker
-1. [Future Advisor](https://www.futureadvisor.com) - it also has portfolio tracker
+1. ~~[Instavest](https://instavest.com/) - for speculative short-term trading~~
+1. ~~[Future Advisor](https://www.futureadvisor.com) - it also has portfolio tracker~~
 
 ## Notable online brokers
 
@@ -27,10 +27,14 @@
 ## Money management
 
 1. [Mint](https://www.mint.com)
-1. [Everwealth](https://www.everwealth.io) - not launched yet
 1. [You Need a Budget YNAB](https://www.youneedabudget.com/)
 1. [TidyCalcs](https://www.tidycalcs.com) - free calculators for mortgages, loans, debt payoff, and retirement planning
 1. [Counts](https://getcounts.app) - shared envelope budgeting with a free plan, CSV imports, reconciliation, and no bank password required
+1. [FinCalc](https://fincalc.cc) - free client-side calculators for loans, compound interest, NPV/IRR, and bonds; no ads, no sign-up, works offline
+1. [Calc & Charts](https://calcandcharts.com) - free calculators for everyday math, loans, and investing (mortgage, compound interest, retirement, dividends, capital gains, and more), plus stock-indicator lessons; every result shows its formula and a worked example, no sign-up
+1. [SeeFund](https://seefund.app/?ref=awesome-personal-finance) - free fund and ETF backtest and drawdown analysis: total and annualised return, Sharpe, the deepest drawdown with its dates, and every calendar year, net of fees; no sign-up
+1. [The Calculator World](https://thecalculatorworld.com) - free calculators for **India** - EMI, SIP, compound interest, mortgage, GST and unit conversions; no sign-up
+1. ~~[Everwealth](https://www.everwealth.io) - dead~~
 
 ### Subscription management
 
@@ -39,11 +43,11 @@
 
 ### Portfolio tracking
 
-1. [SigFig](https://www.sigfig.com)
-1. [Wikinvest](https://www.wikinvest.com)
 1. [Ghostfolio](https://ghostfol.io) - open source portfolio tracking software
-1. [Foliofox](https://www.foliofox.com) - open source net worth and portfolio tracker with AI-powered financial advisor, scenario planning, and multi-currency support
+1. [Foliofox](https://www.foliofox.com) - open-source net worth and portfolio tracker with AI-powered financial advisor, scenario planning, and multi-currency support
 1. [VestingGap](https://vestinggap.com) - Zero-login RSU tax shortfall simulator for US tech employees
+1. ~~[SigFig](https://www.sigfig.com)~~
+1. ~~[Wikinvest](https://www.wikinvest.com)~~
 
 ## Learning
 
@@ -57,10 +61,10 @@
 ## Private market investing (only for accredited investors)
 
 1. [AngelList](https://angel.co/)
-1. [SeedInvest](https://www.seedinvest.com/)
 1. [OneVest](https://onevest.com/)
 1. [WeFunder](https://wefunder.com/)
 1. [AngelsDen](https://www.angelsden.com/)
+1. ~~[SeedInvest](https://www.seedinvest.com/)~~
 
 ## Private market secondary transactions (only for accredited investors)
 
@@ -69,8 +73,8 @@
 
 ## Real Estate
 
-1. [AlphaFlow](https://www.alphaflow.com)
 1. [Fund Rise](https://fundrise.com/)
+1. ~~[AlphaFlow](https://www.alphaflow.com)~~
 1. ~~[RealtyShares](https://www.realtyshares.com)~~
 
 ## Cost of Living
@@ -90,8 +94,14 @@
 1. [IRS Offer in Compromise Pre-Qualifier](https://stepuplaw.com/offer-in-compromise-calculator) - free reasonable collection potential estimate, to see whether an offer in compromise is realistic before paying to file one, no sign-up
 1. [The Brink Labs Tools](https://thebrinklabs.com/tools/) - 6 free, client-side personal finance calculators for zero-based budgeting, subscription bleed audit, and debt payoff; runs entirely in the browser, no sign-up or telemetry
 1. [RentVsBuyMath](https://rentvsbuymath.com) - free, open-source rent vs. buy calculator with 2026 US tax rules and opportunity cost counted on both sides; no sign-up, no ads
+1. [Ghost Money](https://ghost-money.surge.sh/) - free board marking 2026 rebate, tax-credit, and debt-forgiveness ads as alive or dead (expired or scam), each with its IRS/agency source, plus a paste-an-ad checker; no sign-up
+1. [Roth Conversion Calculator](https://runwayretirement.com/tools/roth-conversion-calculator.html) - free, no-signup Roth conversion decision tool: current vs. expected future tax rate, conversion amount, years of tax-free growth, estimated dollar savings (shows when converting loses money too)
 
 ### 401K analyzers
 
 1. [Fee X](https://www.feex.com)
-1. [Blooom](http://www.blooom.com/)
+1. ~~[Blooom](http://www.blooom.com/)~~
+
+### International - non-US
+
+1. [Finance Simulator](https://finance.chriscoffin.design/) - free tax and retirement planner for **Canada**: take-home pay with real federal and provincial brackets for all 13 provinces and territories, TFSA/RRSP/FHSA, and retirement planning with CPP and OAS; every tax constant sourced from a public methodology page; no sign-up; financial inputs stay in the browser
