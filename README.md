@@ -15,9 +15,9 @@
 ## Non-robo advisors
 
 1. [Aspiration](https://www.aspiration.com/)
-1. [Instavest](https://instavest.com/) - for speculative short-term trading
 1. [Personal Capital](https://www.personalcapital.com) - it also has portfolio tracker
-1. [Future Advisor](https://www.futureadvisor.com) - it also has portfolio tracker
+1. ~~[Instavest](https://instavest.com/) - for speculative short-term trading~~
+1. ~~[Future Advisor](https://www.futureadvisor.com) - it also has portfolio tracker~~
 
 ## Notable online brokers
 
