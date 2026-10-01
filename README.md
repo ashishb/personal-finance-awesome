@@ -61,10 +61,10 @@
 ## Private market investing (only for accredited investors)
 
 1. [AngelList](https://angel.co/)
-1. [SeedInvest](https://www.seedinvest.com/)
 1. [OneVest](https://onevest.com/)
 1. [WeFunder](https://wefunder.com/)
 1. [AngelsDen](https://www.angelsden.com/)
+1. ~~[SeedInvest](https://www.seedinvest.com/)~~
 
 ## Private market secondary transactions (only for accredited investors)
 
@@ -73,8 +73,8 @@
 
 ## Real Estate
 
-1. [AlphaFlow](https://www.alphaflow.com)
 1. [Fund Rise](https://fundrise.com/)
+1. ~~[AlphaFlow](https://www.alphaflow.com)~~
 1. ~~[RealtyShares](https://www.realtyshares.com)~~
 
 ## Cost of Living
