@@ -100,3 +100,7 @@
 
 1. [Fee X](https://www.feex.com)
 1. [Blooom](http://www.blooom.com/)
+
+### International - non-US
+
+1. [Finance Simulator](https://finance.chriscoffin.design/) - free tax and retirement planner for Canada (not the US): take-home pay with real federal and provincial brackets for all 13 provinces and territories, TFSA/RRSP/FHSA, and retirement planning with CPP and OAS; every tax constant sourced from a public methodology page; no sign-up; financial inputs stay in the browser
