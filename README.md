@@ -28,14 +28,17 @@
 
 1. [Mint](https://www.mint.com)
 1. [You Need a Budget YNAB](https://www.youneedabudget.com/)
+1. [Kivana](https://github.com/kivana-software/Kivana) - offline-first, open-source personal finance app
+
+### Calculators
+
 1. [TidyCalcs](https://www.tidycalcs.com) - free calculators for mortgages, loans, debt payoff, and retirement planning
 1. [Counts](https://getcounts.app) - shared envelope budgeting with a free plan, CSV imports, reconciliation, and no bank password required
 1. [FinCalc](https://fincalc.cc) - free client-side calculators for loans, compound interest, NPV/IRR, and bonds; no ads, no sign-up, works offline
 1. [Calc & Charts](https://calcandcharts.com) - free calculators for everyday math, loans, and investing (mortgage, compound interest, retirement, dividends, capital gains, and more), plus stock-indicator lessons; every result shows its formula and a worked example, no sign-up
 1. [SeeFund](https://seefund.app/?ref=awesome-personal-finance) - free fund and ETF backtest and drawdown analysis: total and annualised return, Sharpe, the deepest drawdown with its dates, and every calendar year, net of fees; no sign-up
 1. [The Calculator World](https://thecalculatorworld.com) - free calculators for **India** - EMI, SIP, compound interest, mortgage, GST and unit conversions; no sign-up
-1. [Kivana](https://github.com/kivana-software/Kivana) - offline-first, open-source personal finance app
-1. ~~[Everwealth](https://www.everwealth.io) - dead~~
+1. [StockAvg](https://stockavg.com/) - free stock average cost and cost basis calculators (average down, DCA, DRIP, splits, position size, market cap, options at expiration); no sign-up, and the rounding rule is published
 
 ### Subscription management
 
