@@ -109,3 +109,4 @@
 ### International - non-US
 
 1. [Finance Simulator](https://finance.chriscoffin.design/) - free tax and retirement planner for **Canada**: take-home pay with real federal and provincial brackets for all 13 provinces and territories, TFSA/RRSP/FHSA, and retirement planning with CPP and OAS; every tax constant sourced from a public methodology page; no sign-up; financial inputs stay in the browser
+1. [VivaMap tax explorer](https://vivamap.ch/en/taxes/) - free comparison of income tax across ~2,000 **Swiss** communes for 40 household profiles (single, married, children, retirees, income levels), based on the federal tax administration's calculator for tax year 2025; no sign-up
