@@ -40,6 +40,7 @@
 1. [The Calculator World](https://thecalculatorworld.com) - free calculators for **India** - EMI, SIP, compound interest, mortgage, GST and unit conversions; no sign-up
 1. [StockAvg](https://stockavg.com/) - free stock average cost and cost basis calculators (average down, DCA, DRIP, splits, position size, market cap, options at expiration); no sign-up, and the rounding rule is published
 1. [SmartBizCalc](https://smartbizcalc.com) - free small business financial calculators covering self-employment tax, payroll taxes, contractor pricing, 1099 vs W-2 comparison, S-corp savings, break-even analysis, startup costs, and 600+ more; no sign-up required
+1. [Free Freelance Rate Calculator](https://aired.sh/p/mpEJrh7Rny) - free floor hourly rate calculator for freelancers and side hustlers: enter income goal, expenses, taxes and billable hours to get the minimum rate that covers them; runs entirely in the browser, no sign-up
 
 ### Subscription management
 
