@@ -104,6 +104,10 @@
 1. [Ghost Money](https://ghost-money.surge.sh/) - free board marking 2026 rebate, tax-credit, and debt-forgiveness ads as alive or dead (expired or scam), each with its IRS/agency source, plus a paste-an-ad checker; no sign-up
 1. [Roth Conversion Calculator](https://runwayretirement.com/tools/roth-conversion-calculator.html) - free, no-signup Roth conversion decision tool: current vs. expected future tax rate, conversion amount, years of tax-free growth, estimated dollar savings (shows when converting loses money too)
 1. [Truthifi](https://truthifi.com) - One verified record of a household's accounts, holdings and fees, reviewed every night and scored, with an MCP server that brings it into your AI assistant
+1. [IRMAA Calculator by Killion](https://killionlabs.com/calculators/irmaa/) - free, no sign-up: the 2026 Medicare IRMAA brackets and the projected 2027 brackets, your Part B and D surcharge from MAGI, and how much income fits before the next tier; CMS and SSA sources linked
+1. [RMD Calculator by Killion](https://killionlabs.com/calculators/rmd/) - free, no sign-up: this year's required minimum distribution, a year-by-year schedule and the full IRS Uniform Lifetime Table, with QCDs and the age-73/75 start rules
+1. [72(t) SEPP Calculator by Killion](https://killionlabs.com/calculators/72t/) - free, no sign-up: substantially equal periodic payments under all three IRS methods (Notice 2022-6), the current interest-rate cap and the date the series must run until
+1. [ACA Subsidy Cliff Calculator by Killion](https://killionlabs.com/calculators/aca-subsidy-cliff/) - free, no sign-up: the 2026 and 2027 premium tax credit, the 400% poverty-line cliff, and how much income you can add before losing the credit
 
 ### 401K analyzers
 
