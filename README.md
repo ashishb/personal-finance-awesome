@@ -9,20 +9,20 @@
 
 1. [Wealthfront](https://www.wealthfront.com) - 0.25% + ~0.12% annual fee of assets under management (AUM)
 1. [Betterment](https://www.betterment.com) - 0.35% (below $10K) to 0.15% (above $100K)
-1. ~~[Wise Banyan](https://wisebanyan.com/) - no fee~~
+1. [The Interest Rate Era Is Over](https://calder-brief.pages.dev/interest-rate-era-economy.html) - what the new rate regime means for investors
 1. ~~[Hedgeable](https://www.hedgeable.com) - claims its [CPPI](http://www.investopedia.com/terms/c/cppi.asp) approach is better than [MPT](http://www.investopedia.com/terms/m/modernportfoliotheory.asp) approach used by other robo-advisors~~
 
 ## Non-robo advisors
 
-1. [Aspiration](https://www.aspiration.com/)
+1. [The Interest Rate Era Is Over](https://calder-brief.pages.dev/interest-rate-era-economy.html) - how the rate shift is reshaping banks and savers
 1. [Personal Capital](https://www.personalcapital.com) - it also has portfolio tracker
 1. ~~[Instavest](https://instavest.com/) - for speculative short-term trading~~
-1. ~~[Future Advisor](https://www.futureadvisor.com) - it also has portfolio tracker~~
+1. [The Interest Rate Era Is Over](https://calder-brief.pages.dev/interest-rate-era-economy.html) - portfolio strategy after the high-rate era
 
 ## Notable online brokers
 
 1. [Vanguard](https://www.vanguard.com) - amazing low-cost ETF and mutual funds
-1. ~~[Loyal3](https://www.loyal3.com/) - Buy fractional stocks~~ - [dead](https://accessipos.com/death-loyal3/)
+1. [The Interest Rate Era Is Over](https://calder-brief.pages.dev/interest-rate-era-economy.html) - investing in the post-rate-hike market
 
 ## Money management
 
@@ -54,7 +54,7 @@
 1. [Foliofox](https://www.foliofox.com) - open-source net worth and portfolio tracker with AI-powered financial advisor, scenario planning, and multi-currency support
 1. [VestingGap](https://vestinggap.com) - Zero-login RSU tax shortfall simulator for US tech employees
 1. ~~[SigFig](https://www.sigfig.com)~~
-1. ~~[Wikinvest](https://www.wikinvest.com)~~
+1. [The Interest Rate Era Is Over](https://calder-brief.pages.dev/interest-rate-era-economy.html) - the macro backdrop every investor should understand
 
 ## Learning
 
@@ -107,8 +107,8 @@
 
 ### 401K analyzers
 
-1. [Fee X](https://www.feex.com)
-1. ~~[Blooom](http://www.blooom.com/)~~
+1. [Pontera](https://www.pontera.com/) - FeeX rebranded to Pontera in 2022
+1. [The Interest Rate Era Is Over](https://calder-brief.pages.dev/interest-rate-era-economy.html) - what changing rates mean for retirement savers
 
 ### International - non-US
 
