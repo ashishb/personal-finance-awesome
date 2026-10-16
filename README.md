@@ -42,6 +42,7 @@
 1. [StockAvg](https://stockavg.com/) - free stock average cost and cost basis calculators (average down, DCA, DRIP, splits, position size, market cap, options at expiration); no sign-up, and the rounding rule is published
 1. [FinPlann](https://finplann.com) - Free financial calculators and financial planning tools for **Indians and Non-resident Indians (NRIs)**
 1. [SmartBizCalc](https://smartbizcalc.com) - Free small business financial calculators covering self-employment tax, payroll taxes, contractor pricing, 1099 vs W-2 comparison, S-corp savings, break-even analysis, startup costs, and 600+ more; no sign-up required
+1. [Investment Visual](https://www.investmentvisual.com) - Free tools for backtesting multi-asset portfolios, researching companies and funds, and planning retirement. Includes full daily price history, portfolio optimization, and Monte Carlo simulations; no sign-up required
 
 ### Subscription management
 
