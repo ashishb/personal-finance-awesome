@@ -29,7 +29,7 @@
 1. [Mint](https://www.mint.com)
 1. [You Need a Budget YNAB](https://www.youneedabudget.com/)
 1. [Kivana](https://github.com/kivana-software/Kivana) - offline-first, open-source personal finance app
-1. [BankBridge](https://bankbridge.money/?ref=personal-finance-awesome) - read-only access to your US bank, credit card and investment accounts from Claude, Cursor and other AI assistants that support MCP, to ask about spending, subscriptions and cashflow; paid, $5/mo per connected bank
+1. [BankBridge](https://bankbridge.money/?ref=personal-finance-awesome) - read-only access to your US bank, credit card, and investment accounts from Claude, Cursor, and other AI assistants that support MCP, to ask about spending, subscriptions, and cash flow; paid, $5/mo per connected bank
 
 ### Calculators
 
@@ -37,12 +37,13 @@
 1. [Counts](https://getcounts.app) - shared envelope budgeting with a free plan, CSV imports, reconciliation, and no bank password required
 1. [FinCalc](https://fincalc.cc) - free client-side calculators for loans, compound interest, NPV/IRR, and bonds; no ads, no sign-up, works offline
 1. [Calc & Charts](https://calcandcharts.com) - free calculators for everyday math, loans, and investing (mortgage, compound interest, retirement, dividends, capital gains, and more), plus stock-indicator lessons; every result shows its formula and a worked example, no sign-up
-1. [SeeFund](https://seefund.app/?ref=awesome-personal-finance) - free fund and ETF backtest and drawdown analysis: total and annualised return, Sharpe, the deepest drawdown with its dates, and every calendar year, net of fees; no sign-up
+1. [SeeFund](https://seefund.app/) - free fund and ETF backtest and drawdown analysis: total and annualised return, Sharpe, the deepest drawdown with its dates, and every calendar year, net of fees; no sign-up
 1. [The Calculator World](https://thecalculatorworld.com) - free calculators for **India** - EMI, SIP, compound interest, mortgage, GST and unit conversions; no sign-up
 1. [StockAvg](https://stockavg.com/) - free stock average cost and cost basis calculators (average down, DCA, DRIP, splits, position size, market cap, options at expiration); no sign-up, and the rounding rule is published
 1. [FinPlann](https://finplann.com) - Free financial calculators and financial planning tools for **Indians and Non-resident Indians (NRIs)**
 1. [SmartBizCalc](https://smartbizcalc.com) - Free small business financial calculators covering self-employment tax, payroll taxes, contractor pricing, 1099 vs W-2 comparison, S-corp savings, break-even analysis, startup costs, and 600+ more; no sign-up required
 1. [Investment Visual](https://www.investmentvisual.com) - Free tools for backtesting multi-asset portfolios, researching companies and funds, and planning retirement. Includes full daily price history, portfolio optimization, and Monte Carlo simulations; no sign-up required
+1. [2027 COLA Calculator](https://colacalculator2027.com/va-cola-2027-calculator/) - free 2027 COLA / VA disability rates calculator (official 3.6% COLA); also covers Social Security, FERS, and SSI; no sign-up
 
 ### Subscription management
 
