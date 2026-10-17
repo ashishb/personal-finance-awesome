@@ -44,6 +44,7 @@
 1. [SmartBizCalc](https://smartbizcalc.com) - Free small business financial calculators covering self-employment tax, payroll taxes, contractor pricing, 1099 vs W-2 comparison, S-corp savings, break-even analysis, startup costs, and 600+ more; no sign-up required
 1. [Investment Visual](https://www.investmentvisual.com) - Free tools for backtesting multi-asset portfolios, researching companies and funds, and planning retirement. Includes full daily price history, portfolio optimization, and Monte Carlo simulations; no sign-up required
 1. [2027 COLA Calculator](https://colacalculator2027.com/va-cola-2027-calculator/) - free 2027 COLA / VA disability rates calculator (official 3.6% COLA); also covers Social Security, FERS, and SSI; no sign-up
+1. [Belastingcalculator](https://cerberostech.github.io/belastingcalculator/) - free **Netherlands** income tax calculator (employees, zzp/self-employed, box 3, 30% ruling) in Dutch and English; no sign-up
 
 ### Subscription management
 
