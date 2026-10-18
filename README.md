@@ -32,6 +32,7 @@
 1. [BankBridge](https://bankbridge.money/?ref=personal-finance-awesome) - read-only access to your US bank, credit card, and investment accounts from Claude, Cursor, and other AI assistants that support MCP, to ask about spending, subscriptions, and cash flow; paid, $5/mo per connected bank
 
 ### Calculators
+1. [CashFlow Pick AP ROI Calculator](https://cashflowpick.com/ap-automation-roi-calculator/) - free calculator estimating ROI for accounts-payable / expense automation (hours saved vs tool cost); no sign-up
 
 1. [TidyCalcs](https://www.tidycalcs.com) - free calculators for mortgages, loans, debt payoff, and retirement planning
 1. [Counts](https://getcounts.app) - shared envelope budgeting with a free plan, CSV imports, reconciliation, and no bank password required
