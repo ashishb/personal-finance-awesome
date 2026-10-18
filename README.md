@@ -38,16 +38,14 @@
 1. [FinCalc](https://fincalc.cc) - free client-side calculators for loans, compound interest, NPV/IRR, and bonds; no ads, no sign-up, works offline
 1. [Calc & Charts](https://calcandcharts.com) - free calculators for everyday math, loans, and investing (mortgage, compound interest, retirement, dividends, capital gains, and more), plus stock-indicator lessons; every result shows its formula and a worked example, no sign-up
 1. [SeeFund](https://seefund.app/) - free fund and ETF backtest and drawdown analysis: total and annualised return, Sharpe, the deepest drawdown with its dates, and every calendar year, net of fees; no sign-up
-1. [The Calculator World](https://thecalculatorworld.com) - free calculators for **India** - EMI, SIP, compound interest, mortgage, GST and unit conversions; no sign-up
 1. [StockAvg](https://stockavg.com/) - free stock average cost and cost basis calculators (average down, DCA, DRIP, splits, position size, market cap, options at expiration); no sign-up, and the rounding rule is published
-1. [FinPlann](https://finplann.com) - Free financial calculators and financial planning tools for **Indians and Non-resident Indians (NRIs)**
 1. [SmartBizCalc](https://smartbizcalc.com) - Free small business financial calculators covering self-employment tax, payroll taxes, contractor pricing, 1099 vs W-2 comparison, S-corp savings, break-even analysis, startup costs, and 600+ more; no sign-up required
 1. [Investment Visual](https://www.investmentvisual.com) - Free tools for backtesting multi-asset portfolios, researching companies and funds, and planning retirement. Includes full daily price history, portfolio optimization, and Monte Carlo simulations; no sign-up required
 1. [2027 COLA Calculator](https://colacalculator2027.com/va-cola-2027-calculator/) - free 2027 COLA / VA disability rates calculator (official 3.6% COLA); also covers Social Security, FERS, and SSI; no sign-up
 
 ### Subscription management
 
-1. [Just Cancel](https://www.justcancel.io) - Upload a bank statement, AI finds all subscriptions, get cancel links for 450+ services ($5 one-time)
+1. [Just Cancel](https://www.justcancel.io) - Upload a bank statement; AI finds all subscriptions; get cancel links for 450+ services ($5 one-time)
 1. [SubTrack](https://subtrack.makbar.dev) - Local-first browser extension to track subscriptions and get renewal reminders, no bank linking required.
 
 ### Portfolio tracking
@@ -82,13 +80,13 @@
 
 ## Real Estate
 
-1. [Fund Rise](https://fundrise.com/)
+1. [Fundrise](https://fundrise.com/)
 1. ~~[AlphaFlow](https://www.alphaflow.com)~~
 1. ~~[RealtyShares](https://www.realtyshares.com)~~
 
 ## Cost of Living
 
-1. [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
+1. [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metric composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
 1. [Calcoras](https://www.calcoras.com) - free calculators for loans, mortgages, savings, and affordability, plus everyday budgeting tools; no sign-up required
 1. [PlainSums](https://plainsums.com/) - Free mortgage, paycheck, loan, savings, and retirement calculators with itemized estimates and visible assumptions; no sign-up.
 1. [BoringToolsKit marketplace fee calculators](https://boringtoolskit.com/ebay-fee-profit-calculator/) - free calculators showing what eBay, Etsy, Amazon, and Shopify actually take from a sale, plus break-even pricing for sellers; runs entirely in the browser, no sign-up
@@ -112,7 +110,10 @@
 1. [Fee X](https://www.feex.com)
 1. ~~[Blooom](http://www.blooom.com/)~~
 
-### International - non-US
+## International - non-US
 
+1. [The Calculator World](https://thecalculatorworld.com) - free calculators for **India** - EMI, SIP, compound interest, mortgage, GST and unit conversions; no sign-up
+1. [FinPlann](https://finplann.com) - Free financial calculators and financial planning tools for **Indians and Non-resident Indians (NRIs)**
 1. [Finance Simulator](https://finance.chriscoffin.design/) - free tax and retirement planner for **Canada**: take-home pay with real federal and provincial brackets for all 13 provinces and territories, TFSA/RRSP/FHSA, and retirement planning with CPP and OAS; every tax constant sourced from a public methodology page; no sign-up; financial inputs stay in the browser
 1. [VivaMap tax explorer](https://vivamap.ch/en/taxes/) - free comparison of income tax across ~2,000 communes of **Switzerland** for 40 household profiles (single, married, children, retirees, income levels), based on the federal tax administration's calculator for tax year 2025; no sign-up
+1. [Belastingcalculator](https://cerberostech.github.io/belastingcalculator/) - free **Netherlands** income tax calculator (employees, zzp/self-employed, box 3, 30% ruling) in Dutch and English; no sign-up
