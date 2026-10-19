@@ -42,6 +42,7 @@
 1. [SmartBizCalc](https://smartbizcalc.com) - Free small business financial calculators covering self-employment tax, payroll taxes, contractor pricing, 1099 vs W-2 comparison, S-corp savings, break-even analysis, startup costs, and 600+ more; no sign-up required
 1. [Investment Visual](https://www.investmentvisual.com) - Free tools for backtesting multi-asset portfolios, researching companies and funds, and planning retirement. Includes full daily price history, portfolio optimization, and Monte Carlo simulations; no sign-up required
 1. [2027 COLA Calculator](https://colacalculator2027.com/va-cola-2027-calculator/) - free 2027 COLA / VA disability rates calculator (official 3.6% COLA); also covers Social Security, FERS, and SSI; no sign-up
+1. [Lamuko](https://lamuko.com/) - free US mortgage calculators (PITI with taxes and PMI, extra payments, biweekly, recast, refinance break-even), each with its formula and a full amortization schedule; no sign-up
 
 ### Subscription management
 
