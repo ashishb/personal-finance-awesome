@@ -53,6 +53,7 @@
 1. [Ghostfolio](https://ghostfol.io) - open source portfolio tracking software
 1. [Foliofox](https://www.foliofox.com) - open-source net worth and portfolio tracker with AI-powered financial advisor, scenario planning, and multi-currency support
 1. [VestingGap](https://vestinggap.com) - Zero-login RSU tax shortfall simulator for US tech employees
+1. [Equibles](https://equibles.com) - stock research site (SEC filings, earnings call transcripts, insider and congressional trades, 13F holdings) with a free plan that includes a portfolio tracker with cost basis, realized and unrealized gains and dividends
 1. ~~[SigFig](https://www.sigfig.com)~~
 1. ~~[Wikinvest](https://www.wikinvest.com)~~
 
