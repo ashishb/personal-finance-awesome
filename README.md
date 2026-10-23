@@ -49,6 +49,7 @@
 
 1. [Just Cancel](https://www.justcancel.io) - Upload a bank statement; AI finds all subscriptions; get cancel links for 450+ services ($5 one-time)
 1. [SubTrack](https://subtrack.makbar.dev) - Local-first browser extension to track subscriptions and get renewal reminders, no bank linking required.
+1. [App Store Price](https://appstoreprice.org/) - compare App Store subscription prices (e.g. ChatGPT, YouTube Premium) across countries, checked daily with currency conversion; free, no sign-up required
 
 ### Portfolio tracking
 
