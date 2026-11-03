@@ -44,6 +44,7 @@
 1. [2027 COLA Calculator](https://colacalculator2027.com/va-cola-2027-calculator/) - free 2027 COLA / VA disability rates calculator (official 3.6% COLA); also covers Social Security, FERS, and SSI; no sign-up
 1. [Lamuko](https://lamuko.com/) - free US mortgage calculators (PITI with taxes and PMI, extra payments, biweekly, recast, refinance break-even), each with its formula and a full amortization schedule; no sign-up
 1. [Finance Calc Kit](https://financecalckit.com) - free finance calculators for mortgages, loans, tax, retirement, and investing (697 tools across 19 categories); every result shows its formula and the numbers never leave the browser, no sign-up
+1. [Debt Snowball vs Avalanche Calculator](https://elaysuu.github.io/debt-snowball-calculator/) - free, open-source calculator comparing the snowball and avalanche payoff orders month by month (months to debt-free and total interest for each); runs in the browser, no sign-up
 
 ### Subscription management
 
