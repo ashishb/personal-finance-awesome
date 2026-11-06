@@ -32,7 +32,7 @@
 1. [BankBridge](https://bankbridge.money/?ref=personal-finance-awesome) - read-only access to your US bank, credit card, and investment accounts from Claude, Cursor, and other AI assistants that support MCP, to ask about spending, subscriptions, and cash flow; paid, $5/mo per connected bank
 
 ### Calculators
-
+1. [Rent-or-Buy-US](https://mirzaatharbaig.github.io/rent-or-buy-us/) - Monte Carlo rent-vs-buy simulator for U.S. housing markets built on 25 years of FHFA, FRED, and Zillow data. ([Source Code](https://github.com/MirzaAtharBaig/rent-or-buy-us))
 1. [TidyCalcs](https://www.tidycalcs.com) - free calculators for mortgages, loans, debt payoff, and retirement planning
 1. [Counts](https://getcounts.app) - shared envelope budgeting with a free plan, CSV imports, reconciliation, and no bank password required
 1. [FinCalc](https://fincalc.cc) - free client-side calculators for loans, compound interest, NPV/IRR, and bonds; no ads, no sign-up, works offline
