@@ -32,6 +32,7 @@
 1. [BankBridge](https://bankbridge.money/?ref=personal-finance-awesome) - read-only access to your US bank, credit card, and investment accounts from Claude, Cursor, and other AI assistants that support MCP, to ask about spending, subscriptions, and cash flow; paid, $5/mo per connected bank
 
 ### Calculators
+
 1. [Rent-or-Buy-US](https://mirzaatharbaig.github.io/rent-or-buy-us/) - Monte Carlo rent-vs-buy simulator for U.S. housing markets built on 25 years of FHFA, FRED, and Zillow data. ([Source Code](https://github.com/MirzaAtharBaig/rent-or-buy-us))
 1. [TidyCalcs](https://www.tidycalcs.com) - free calculators for mortgages, loans, debt payoff, and retirement planning
 1. [Counts](https://getcounts.app) - shared envelope budgeting with a free plan, CSV imports, reconciliation, and no bank password required
@@ -70,7 +71,7 @@
 1. [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors, including Buffett, Munger, and Dalio
 1. [FIREnomics](https://www.firenomics.com) - practical FIRE guides grounded in math: savings rate, index funds, the 4% rule and its failure points, withdrawal strategy
 1. [ZeroToInvest](https://zerotoinvest.com/de/) - Free, ad-free German-language course on investing and stock markets, covering more than 100 lessons plus interactive calculators.
-1. [MoneyNest](https://getmoneynest.com) - personal finance guides and free calculators for budgeting, saving, investing, retirement, debt payoff and tax; no sign-up
+1. [MoneyNest](https://getmoneynest.com) - personal finance guides and free calculators for budgeting, saving, investing, retirement, debt payoff, and tax; no sign-up
 
 ## Private market investing (only for accredited investors)
 
