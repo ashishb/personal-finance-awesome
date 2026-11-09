@@ -47,6 +47,7 @@
 1. [Finance Calc Kit](https://financecalckit.com) - free finance calculators for mortgages, loans, tax, retirement, and investing (697 tools across 19 categories); every result shows its formula and the numbers never leave the browser, no sign-up
 1. [NeedTheseApps](https://needtheseapps.com/) - free calculators for savings growth, how long retirement savings last, debt payoff, budgets, and life expectancy; results explained in plain English, no sign-up
 1. [Coast FIRE Lab](https://coastfirelab.com) - free Coast/Fat FIRE calculator that subtracts the 2026 average retired-worker benefit ($2,084/mo) and prices pre-Medicare health insurance as a separate discounted bridge; formula open source, no sign-up
+1. [Credit card minimum payment calculator](https://artigram.cafeboon.com/p/ktr69v2) - free interactive calculator: guess how long a card balance lasts on minimum payments, then change balance, rate and payment, next to 128 quarters of Federal Reserve card APRs; runs in the browser with no network requests and no sign-up, posted on ArtiGram which I built
 
 ### Subscription management
 
