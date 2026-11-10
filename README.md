@@ -53,6 +53,10 @@
 1. [Just Cancel](https://www.justcancel.io) - Upload a bank statement; AI finds all subscriptions; get cancel links for 450+ services ($5 one-time)
 1. [SubTrack](https://subtrack.makbar.dev) - Local-first browser extension to track subscriptions and get renewal reminders, no bank linking required.
 
+### Shopping
+
+1. [truediscount](https://emirmrkaljevic.github.io/truediscount/) - free Firefox add-on and userscript that checks EU shop discounts against the disclosed 30-day lowest price (Omnibus rule); prices stay in the browser, no sign-up ([Source Code](https://github.com/emirmrkaljevic/truediscount))
+
 ### Portfolio tracking
 
 1. [Ghostfolio](https://ghostfol.io) - open source portfolio tracking software
