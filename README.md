@@ -48,10 +48,12 @@
 1. [NeedTheseApps](https://needtheseapps.com/) - free calculators for savings growth, how long retirement savings last, debt payoff, budgets, and life expectancy; results explained in plain English, no sign-up
 1. [Coast FIRE Lab](https://coastfirelab.com) - free Coast/Fat FIRE calculator that subtracts the 2026 average retired-worker benefit ($2,084/mo) and prices pre-Medicare health insurance as a separate discounted bridge; formula open source, no sign-up
 
-### Subscription management
+### Subscription management & Shopping
 
 1. [Just Cancel](https://www.justcancel.io) - Upload a bank statement; AI finds all subscriptions; get cancel links for 450+ services ($5 one-time)
 1. [SubTrack](https://subtrack.makbar.dev) - Local-first browser extension to track subscriptions and get renewal reminders, no bank linking required.
+1. [truediscount]([https://emirmrkaljevic.github.io/truediscount/](https://github.com/emirmrkaljevic/truediscount/)) - free Firefox add-on and userscript that checks **European Union (EU)** shop discounts against the disclosed 30-day lowest price.
+   Prices stay in the browser, no sign-up
 
 ### Portfolio tracking
 
