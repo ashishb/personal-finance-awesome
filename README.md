@@ -74,6 +74,7 @@
 1. [FIREnomics](https://www.firenomics.com) - practical FIRE guides grounded in math: savings rate, index funds, the 4% rule and its failure points, withdrawal strategy
 1. [ZeroToInvest](https://zerotoinvest.com/de/) - Free, ad-free German-language course on investing and stock markets, covering more than 100 lessons plus interactive calculators.
 1. [MoneyNest](https://getmoneynest.com) - personal finance guides and free calculators for budgeting, saving, investing, retirement, debt payoff, and tax; no sign-up
+1. [Kids Money Map](https://kidsmoneymap.com/) - source-linked guide to Trump Account contributions, with an employer and state program directory and a no-login situation finder; not an application or tax advisor
 
 ## Private market investing (only for accredited investors)
 
