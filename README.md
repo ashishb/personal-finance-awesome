@@ -29,31 +29,41 @@
 1. [Mint](https://www.mint.com)
 1. [You Need a Budget YNAB](https://www.youneedabudget.com/)
 1. [Kivana](https://github.com/kivana-software/Kivana) - offline-first, open-source personal finance app
-1. [BankBridge](https://bankbridge.money/?ref=personal-finance-awesome) - read-only access to your US bank, credit card and investment accounts from Claude, Cursor and other AI assistants that support MCP, to ask about spending, subscriptions and cashflow; paid, $5/mo per connected bank
+1. [BankBridge](https://bankbridge.money/?ref=personal-finance-awesome) - read-only access to your US bank, credit card, and investment accounts from Claude, Cursor, and other AI assistants that support MCP, to ask about spending, subscriptions, and cash flow; paid, $5/mo per connected bank
 
 ### Calculators
 
+1. [Rent-or-Buy-US](https://mirzaatharbaig.github.io/rent-or-buy-us/) - Monte Carlo rent-vs-buy simulator for U.S. housing markets built on 25 years of FHFA, FRED, and Zillow data. ([Source Code](https://github.com/MirzaAtharBaig/rent-or-buy-us))
 1. [TidyCalcs](https://www.tidycalcs.com) - free calculators for mortgages, loans, debt payoff, and retirement planning
 1. [Counts](https://getcounts.app) - shared envelope budgeting with a free plan, CSV imports, reconciliation, and no bank password required
 1. [FinCalc](https://fincalc.cc) - free client-side calculators for loans, compound interest, NPV/IRR, and bonds; no ads, no sign-up, works offline
 1. [Calc & Charts](https://calcandcharts.com) - free calculators for everyday math, loans, and investing (mortgage, compound interest, retirement, dividends, capital gains, and more), plus stock-indicator lessons; every result shows its formula and a worked example, no sign-up
-1. [SeeFund](https://seefund.app/?ref=awesome-personal-finance) - free fund and ETF backtest and drawdown analysis: total and annualised return, Sharpe, the deepest drawdown with its dates, and every calendar year, net of fees; no sign-up
-1. [The Calculator World](https://thecalculatorworld.com) - free calculators for **India** - EMI, SIP, compound interest, mortgage, GST and unit conversions; no sign-up
+1. [SeeFund](https://seefund.app/) - free fund and ETF backtest and drawdown analysis: total and annualised return, Sharpe, the deepest drawdown with its dates, and every calendar year, net of fees; no sign-up
 1. [StockAvg](https://stockavg.com/) - free stock average cost and cost basis calculators (average down, DCA, DRIP, splits, position size, market cap, options at expiration); no sign-up, and the rounding rule is published
-1. [FinPlann](https://finplann.com) - Free financial calculators and financial planning tools for **Indians and Non-resident Indians (NRIs)**
 1. [SmartBizCalc](https://smartbizcalc.com) - Free small business financial calculators covering self-employment tax, payroll taxes, contractor pricing, 1099 vs W-2 comparison, S-corp savings, break-even analysis, startup costs, and 600+ more; no sign-up required
+1. [Investment Visual](https://www.investmentvisual.com) - Free tools for backtesting multi-asset portfolios, researching companies and funds, and planning retirement. Includes full daily price history, portfolio optimization, and Monte Carlo simulations; no sign-up required
+1. [2027 COLA Calculator](https://colacalculator2027.com/va-cola-2027-calculator/) - free 2027 COLA / VA disability rates calculator (official 3.6% COLA); also covers Social Security, FERS, and SSI; no sign-up
+1. [Lamuko](https://lamuko.com/) - free US mortgage calculators (PITI with taxes and PMI, extra payments, biweekly, recast, refinance break-even), each with its formula and a full amortization schedule; no sign-up
+1. [Finance Calc Kit](https://financecalckit.com) - free finance calculators for mortgages, loans, tax, retirement, and investing (697 tools across 19 categories); every result shows its formula and the numbers never leave the browser, no sign-up
+1. [NeedTheseApps](https://needtheseapps.com/) - free calculators for savings growth, how long retirement savings last, debt payoff, budgets, and life expectancy; results explained in plain English, no sign-up
+1. [Coast FIRE Lab](https://coastfirelab.com) - free Coast/Fat FIRE calculator that subtracts the 2026 average retired-worker benefit ($2,084/mo) and prices pre-Medicare health insurance as a separate discounted bridge; formula open source, no sign-up
 1. [Torqsheet budgeting tools](https://torqsheeet.github.io/) - free client-side debt snowball vs avalanche calculator (months to debt-free and total interest side by side) and a 2027 three-paycheck-month calendar for biweekly pay; no sign-up
 
-### Subscription management
+### Subscription management & Shopping
 
-1. [Just Cancel](https://www.justcancel.io) - Upload a bank statement, AI finds all subscriptions, get cancel links for 450+ services ($5 one-time)
+1. [Just Cancel](https://www.justcancel.io) - Upload a bank statement; AI finds all subscriptions; get cancel links for 450+ services ($5 one-time)
 1. [SubTrack](https://subtrack.makbar.dev) - Local-first browser extension to track subscriptions and get renewal reminders, no bank linking required.
+1. [truediscount]([https://emirmrkaljevic.github.io/truediscount/](https://github.com/emirmrkaljevic/truediscount/)) - free Firefox add-on and userscript that checks **European Union (EU)** shop discounts against the disclosed 30-day lowest price.
+   Prices stay in the browser, no sign-up
 
 ### Portfolio tracking
 
 1. [Ghostfolio](https://ghostfol.io) - open source portfolio tracking software
 1. [Foliofox](https://www.foliofox.com) - open-source net worth and portfolio tracker with AI-powered financial advisor, scenario planning, and multi-currency support
 1. [VestingGap](https://vestinggap.com) - Zero-login RSU tax shortfall simulator for US tech employees
+1. [Equibles](https://equibles.com) - stock research site (SEC filings, earnings call transcripts, insider and congressional trades, 13F holdings) with a free plan that includes a portfolio tracker with cost basis, realized and unrealized gains and dividends
+1. [PortfolioTracker24](https://portfoliotracker24.com) - free stock and ETF portfolio tracker with no account or broker connection; trades stay in your browser, prices are entered manually, backups are Excel files, and returns are compared against the S&P 500 and Bitcoin
+1. [Redstone Markets](https://redstonemarkets.com) - free return and risk analytics for about 2,900 US stocks and 1,200 ETFs, with portfolio backtests; no account needed to browse
 1. ~~[SigFig](https://www.sigfig.com)~~
 1. ~~[Wikinvest](https://www.wikinvest.com)~~
 
@@ -65,6 +75,7 @@
 1. [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors, including Buffett, Munger, and Dalio
 1. [FIREnomics](https://www.firenomics.com) - practical FIRE guides grounded in math: savings rate, index funds, the 4% rule and its failure points, withdrawal strategy
 1. [ZeroToInvest](https://zerotoinvest.com/de/) - Free, ad-free German-language course on investing and stock markets, covering more than 100 lessons plus interactive calculators.
+1. [MoneyNest](https://getmoneynest.com) - personal finance guides and free calculators for budgeting, saving, investing, retirement, debt payoff, and tax; no sign-up
 
 ## Private market investing (only for accredited investors)
 
@@ -81,18 +92,19 @@
 
 ## Real Estate
 
-1. [Fund Rise](https://fundrise.com/)
+1. [Fundrise](https://fundrise.com/)
 1. ~~[AlphaFlow](https://www.alphaflow.com)~~
 1. ~~[RealtyShares](https://www.realtyshares.com)~~
 
 ## Cost of Living
 
-1. [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
+1. [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metric composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
 1. [Calcoras](https://www.calcoras.com) - free calculators for loans, mortgages, savings, and affordability, plus everyday budgeting tools; no sign-up required
 1. [PlainSums](https://plainsums.com/) - Free mortgage, paycheck, loan, savings, and retirement calculators with itemized estimates and visible assumptions; no sign-up.
 1. [BoringToolsKit marketplace fee calculators](https://boringtoolskit.com/ebay-fee-profit-calculator/) - free calculators showing what eBay, Etsy, Amazon, and Shopify actually take from a sale, plus break-even pricing for sellers; runs entirely in the browser, no sign-up
 1. [Threshold - rent vs. buy calculator](https://threshold-calculator.com/)
 1. [Wheelwise](https://cars.limoja.ai) - free UK used-car price checker: grades every advert A–E against a model trained on 137,552 live listings (published error: RMSLE 0.161), forecasts resale at 24/36/48 months, and compares cash, loan, HP, PCP and lease as one monthly cost; no account required (UK-only)
+1. [RelocateMath](https://relocatemath.com/) - free state-to-state moving calculator: compare take-home pay, taxes, rent, home prices and moving costs between any two US states with 2026 rules and official data; no sign-up
 
 ## Taxes and retirement withdrawals
 
@@ -105,13 +117,18 @@
 1. [Ghost Money](https://ghost-money.surge.sh/) - free board marking 2026 rebate, tax-credit, and debt-forgiveness ads as alive or dead (expired or scam), each with its IRS/agency source, plus a paste-an-ad checker; no sign-up
 1. [Roth Conversion Calculator](https://runwayretirement.com/tools/roth-conversion-calculator.html) - free, no-signup Roth conversion decision tool: current vs. expected future tax rate, conversion amount, years of tax-free growth, estimated dollar savings (shows when converting loses money too)
 1. [Truthifi](https://truthifi.com) - One verified record of a household's accounts, holdings and fees, reviewed every night and scored, with an MCP server that brings it into your AI assistant
+1. [LevyDay](https://levyday.com/) - free property tax due dates, penalty dates, appeal windows and homestead exemption deadlines for US counties, each with its official source; calendar (.ics) export, no sign-up
 
 ### 401K analyzers
 
 1. [Fee X](https://www.feex.com)
 1. ~~[Blooom](http://www.blooom.com/)~~
 
-### International - non-US
+## International - non-US
 
+1. [The Calculator World](https://thecalculatorworld.com) - free calculators for **India** - EMI, SIP, compound interest, mortgage, GST and unit conversions; no sign-up
+1. [FinPlann](https://finplann.com) - Free financial calculators and financial planning tools for **Indians and Non-resident Indians (NRIs)**
 1. [Finance Simulator](https://finance.chriscoffin.design/) - free tax and retirement planner for **Canada**: take-home pay with real federal and provincial brackets for all 13 provinces and territories, TFSA/RRSP/FHSA, and retirement planning with CPP and OAS; every tax constant sourced from a public methodology page; no sign-up; financial inputs stay in the browser
 1. [VivaMap tax explorer](https://vivamap.ch/en/taxes/) - free comparison of income tax across ~2,000 communes of **Switzerland** for 40 household profiles (single, married, children, retirees, income levels), based on the federal tax administration's calculator for tax year 2025; no sign-up
+1. [Belastingcalculator](https://cerberostech.github.io/belastingcalculator/) - free **Netherlands** income tax calculator (employees, zzp/self-employed, box 3, 30% ruling) in Dutch and English; no sign-up
+1. [Ontario Mortgage Calculator](https://jenny.mortgage/mortgage-calculator-ontario/) - free **Canada** (Ontario) mortgage payment calculator with Canadian semi-annual compounding: monthly, biweekly or accelerated payments, CMHC insurance estimate, total interest and a full amortization schedule; no sign-up or email
