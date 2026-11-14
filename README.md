@@ -47,6 +47,7 @@
 1. [Finance Calc Kit](https://financecalckit.com) - free finance calculators for mortgages, loans, tax, retirement, and investing (697 tools across 19 categories); every result shows its formula and the numbers never leave the browser, no sign-up
 1. [NeedTheseApps](https://needtheseapps.com/) - free calculators for savings growth, how long retirement savings last, debt payoff, budgets, and life expectancy; results explained in plain English, no sign-up
 1. [Coast FIRE Lab](https://coastfirelab.com) - free Coast/Fat FIRE calculator that subtracts the 2026 average retired-worker benefit ($2,084/mo) and prices pre-Medicare health insurance as a separate discounted bridge; formula open source, no sign-up
+1. [Torqsheet budgeting tools](https://torqsheeet.github.io/) - free client-side debt snowball vs avalanche calculator (months to debt-free and total interest side by side) and a 2027 three-paycheck-month calendar for biweekly pay; no sign-up
 
 ### Subscription management & Shopping
 
