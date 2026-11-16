@@ -30,6 +30,7 @@
 1. [You Need a Budget YNAB](https://www.youneedabudget.com/)
 1. [Kivana](https://github.com/kivana-software/Kivana) - offline-first, open-source personal finance app
 1. [BankBridge](https://bankbridge.money/?ref=personal-finance-awesome) - read-only access to your US bank, credit card, and investment accounts from Claude, Cursor, and other AI assistants that support MCP, to ask about spending, subscriptions, and cash flow; paid, $5/mo per connected bank
+1. [Kinjar](https://kinjar.app/) - shared household budget for couples and families: envelopes as a % of income, one ledger for both partners, receipts and bank statements (CSV/Excel/PDF, any bank) read by AI, no bank password; 27 currencies; paid, 30-day free trial without a card
 
 ### Calculators
 
