@@ -30,6 +30,7 @@
 1. [You Need a Budget YNAB](https://www.youneedabudget.com/)
 1. [Kivana](https://github.com/kivana-software/Kivana) - offline-first, open-source personal finance app
 1. [BankBridge](https://bankbridge.money/?ref=personal-finance-awesome) - read-only access to your US bank, credit card, and investment accounts from Claude, Cursor, and other AI assistants that support MCP, to ask about spending, subscriptions, and cash flow; paid, $5/mo per connected bank
+1. [Candor](https://candor.money/?utm_source=personal-finance-awesome&utm_medium=referral) - personal finance app you run through your AI agent (ChatGPT, Claude, Codex, Gemini CLI, and other MCP clients): it works from your US bank, card, loan, and investment accounts, keeps goals and a budget between conversations, and reviews your money each week; read-only bank access, never moves money
 
 ### Calculators
 
