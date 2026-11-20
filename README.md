@@ -54,6 +54,7 @@
 1. [SubTrack](https://subtrack.makbar.dev) - Local-first browser extension to track subscriptions and get renewal reminders, no bank linking required.
 1. [truediscount]([https://emirmrkaljevic.github.io/truediscount/](https://github.com/emirmrkaljevic/truediscount/)) - free Firefox add-on and userscript that checks **European Union (EU)** shop discounts against the disclosed 30-day lowest price.
    Prices stay in the browser, no sign-up
+1. [YayCodes](https://yaycodes.com) - coupon-code directory that tests each code in the merchant's real cart and records a dated Worked/Failed checkout result
 
 ### Portfolio tracking
 
