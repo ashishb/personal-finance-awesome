@@ -51,6 +51,7 @@
 ### Subscription management & Shopping
 
 1. [Just Cancel](https://www.justcancel.io) - Upload a bank statement; AI finds all subscriptions; get cancel links for 450+ services ($5 one-time)
+1. [ShrinkWatch EU](https://github.com/emirmrkaljevic/shrinkwatch-eu) - free, open-source browser extension that shows the price per kg or litre on European grocery web shops and warns when a pack gets smaller for the same price; prices stay in the browser, no sign-up
 1. [SubTrack](https://subtrack.makbar.dev) - Local-first browser extension to track subscriptions and get renewal reminders, no bank linking required.
 1. [truediscount]([https://emirmrkaljevic.github.io/truediscount/](https://github.com/emirmrkaljevic/truediscount/)) - free Firefox add-on and userscript that checks **European Union (EU)** shop discounts against the disclosed 30-day lowest price.
    Prices stay in the browser, no sign-up
