@@ -30,6 +30,7 @@
 1. [You Need a Budget YNAB](https://www.youneedabudget.com/)
 1. [Kivana](https://github.com/kivana-software/Kivana) - offline-first, open-source personal finance app
 1. [BankBridge](https://bankbridge.money/?ref=personal-finance-awesome) - read-only access to your US bank, credit card, and investment accounts from Claude, Cursor, and other AI assistants that support MCP, to ask about spending, subscriptions, and cash flow; paid, $5/mo per connected bank
+1. [Order History Viewer](https://orderhistoryviewer.com) - free viewer for the order history ZIP or CSV from Amazon's "Request Your Data" page: search and filter orders, total spending by year and currency, export to Excel or CSV; runs in the browser, no sign-up, the file is not uploaded
 
 ### Calculators
 
