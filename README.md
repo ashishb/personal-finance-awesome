@@ -63,6 +63,7 @@
 1. [Equibles](https://equibles.com) - stock research site (SEC filings, earnings call transcripts, insider and congressional trades, 13F holdings) with a free plan that includes a portfolio tracker with cost basis, realized and unrealized gains and dividends
 1. [PortfolioTracker24](https://portfoliotracker24.com) - free stock and ETF portfolio tracker with no account or broker connection; trades stay in your browser, prices are entered manually, backups are Excel files, and returns are compared against the S&P 500 and Bitcoin
 1. [Redstone Markets](https://redstonemarkets.com) - free return and risk analytics for about 2,900 US stocks and 1,200 ETFs, with portfolio backtests; no account needed to browse
+1. [AlphaSift](https://alphasift.zhulinsen.tech/) - open-source quantitative equity screener and public T+5/T+10/T+20 forward return tracking dashboard with zero-lookahead pattern validation ([source code](https://github.com/ZhuLinsen/alphasift)); no sign-up required
 1. ~~[SigFig](https://www.sigfig.com)~~
 1. ~~[Wikinvest](https://www.wikinvest.com)~~
 
