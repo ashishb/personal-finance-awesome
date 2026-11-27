@@ -49,6 +49,7 @@
 1. [Coast FIRE Lab](https://coastfirelab.com) - free Coast/Fat FIRE calculator that subtracts the 2026 average retired-worker benefit ($2,084/mo) and prices pre-Medicare health insurance as a separate discounted bridge; formula open source, no sign-up
 1. [FeeSlate](https://feeslate.com/) - free U.S. fee calculators for marketplaces (eBay, Etsy, Amazon FBA, Walmart), reselling, payment processors (Stripe, PayPal, Square, Venmo), freelance platforms, and Copart/IAAI car auctions, with reverse target-payout math and links to official fee schedules; no sign-up
 
+- [PayCalcUSA](https://paycalcusa.com) — Free paycheck calculator for all 50 US states; see take-home pay after tax, plus salary-to-hourly and overtime converters.
 ### Subscription management & Shopping
 
 1. [Just Cancel](https://www.justcancel.io) - Upload a bank statement; AI finds all subscriptions; get cancel links for 450+ services ($5 one-time)
