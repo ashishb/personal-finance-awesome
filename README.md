@@ -120,6 +120,7 @@
 1. [Roth Conversion Calculator](https://runwayretirement.com/tools/roth-conversion-calculator.html) - free, no-signup Roth conversion decision tool: current vs. expected future tax rate, conversion amount, years of tax-free growth, estimated dollar savings (shows when converting loses money too)
 1. [Truthifi](https://truthifi.com) - One verified record of a household's accounts, holdings and fees, reviewed every night and scored, with an MCP server that brings it into your AI assistant
 1. [LevyDay](https://levyday.com/) - free property tax due dates, penalty dates, appeal windows and homestead exemption deadlines for US counties, each with its official source; calendar (.ics) export, no sign-up
+1. [72(t) SEPP Calculator](https://theomnikit.com/money/72t-sepp-calculator) - free calculator for 72(t) early IRA withdrawals: the three IRS methods (RMD, amortization, annuitization) side by side, with the max interest rate allowed; runs in the browser, no sign-up
 
 ### 401K analyzers
 
